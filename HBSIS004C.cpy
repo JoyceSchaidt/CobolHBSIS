@@ -1,0 +1,11 @@
+      *COPY DO ARQUIVO DE VENDEDORES
+       01  ARQ-HBSIS004C.
+           05  COD-VENDEDOR-HBSIS004C  PIC  9(003)         VALUE ZEROS. 
+           05  CPF-HBSIS004C           PIC  9(011)         VALUE ZEROS.
+           05  NOME-VEND-HBSIS004C     PIC  X(040)         VALUE SPACES.
+           05  LATITUDE-VEND-HBSIS004C PIC S9(003)V9(008)  VALUE ZEROS.
+           05  LONGITUDE-VEND-HBSIS004C
+                                       PIC S9(003)V9(008)  VALUE ZEROS.
+      
+
+

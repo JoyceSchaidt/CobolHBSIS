@@ -1,0 +1,7 @@
+      *COPY DE COMUNICACAO PROGRAMA HBSIS003
+       01  HBSIS003L.
+           05  CPF-CNPJ-HBSIS003       PIC  9(015).
+           05  COD-FUNCAO-HBSIS003     PIC  X(001).
+           05  COD-RETORNO-HBSIS003    PIC  9(001).
+           05  MSG-RETORNO-HBSIS003    PIC  X(050).
+      

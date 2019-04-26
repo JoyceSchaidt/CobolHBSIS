@@ -1,0 +1,11 @@
+      *COPY DE COMUNICACAO PROGRAMA HBSIS005P
+       01  HBSIS005L.
+           05  TIPO-ORD-HBSIS005L      PIC  X(001)         VALUE SPACES.
+           05  TIPO-CLA-HBSIS005L      PIC  X(001)         VALUE SPACES.
+           05  COD-CLI-HBSIS005L       PIC  9(007)         VALUE ZEROS.
+           05  RAZ-SOC-HBSIS005L       PIC  X(040)         VALUE SPACES.
+           05  COD-VEND-HBSIS005L      PIC  9(003)         VALUE ZEROS.
+           05  COD-RETORNO-HBSIS005L   PIC  9(001)         VALUE ZEROS.
+           05  MSG-RETORNO-HBSIS005L   PIC  X(050)         VALUE SPACES.
+
+
